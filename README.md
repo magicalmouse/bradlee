@@ -1,8 +1,8 @@
 # Personal portfolio
 
-[![Site preview](/public/site-preview.png)](https://magichire.onrender.com/)
+[![Site preview](/public/site-preview.png)](https://bradlee.vercel.app/)
 
-My design portfolio to showcase a few projects. Built with [Next.js](https://nextjs.org/), [Three.js](https://threejs.org/), and [Framer Motion](https://www.framer.com/motion/). View the [live site](https://magichire.onrender.com/).
+My design portfolio to showcase a few projects. Built with [Next.js](https://nextjs.org/), [Three.js](https://threejs.org/), and [Framer Motion](https://www.framer.com/motion/). View the [live site](https://bradlee.vercel.app/).
 
 ## Install & run
 
