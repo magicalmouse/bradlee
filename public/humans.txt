@@ -1,0 +1,39 @@
+__  __  __
+\ \ \ \ \/
+ \ \/\ \
+  \/  \/
+
+_______________________________________________________________________________
+
+DESIGNER
+
+Rafail Zhyhunov
+web development
+
+Dev tools:
+Visual Studio
+Visual Studio Code
+Android Studio
+InteliJ
+
+https://github.com/goldengm
+
+_______________________________________________________________________________
+
+TECHNOLOGY
+
+React
+Next.js
+Angular
+Vue.js
+Node.js
+Express
+Three.js
+Framer Motion
+
+_______________________________________________________________________________
+
+FONTS
+
+Gotham
+Hiragino Kaku Gothic
